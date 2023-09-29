@@ -12,3 +12,5 @@
 
 ![java](https://github.com/jmayola/jmayola/assets/133812832/b414657f-634c-45a1-a83e-cfeab6b7b6d6)
 ![electron (1)](https://github.com/jmayola/jmayola/assets/133812832/9cbadd42-b8c9-45d5-8794-27aab6c4d685)
+![next](https://github.com/jmayola/jmayola/assets/133812832/76d33855-595d-48dd-bbb2-782c41333eb4)
+![vite](https://github.com/jmayola/jmayola/assets/133812832/e28f48dd-f55e-4c61-8864-c89d213936c5)
